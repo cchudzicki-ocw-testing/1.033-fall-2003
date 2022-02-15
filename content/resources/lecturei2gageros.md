@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecturei2gageros.pdf
-type: OCWFile
 uid: 272a2ece-d673-2cde-b2f0-7060c42119e8
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: quiz1_solution.pdf
-type: OCWFile
 uid: 11317871-024b-023c-42d5-c48f9ae71710
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: sandcastles.pdf
-type: OCWFile
 uid: e302c405-60cb-3131-6bd3-f0691a586a23
 ---

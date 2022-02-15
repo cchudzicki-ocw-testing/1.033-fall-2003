@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecturei2mohrstr.pdf
-type: OCWFile
 uid: d499868b-91a8-82ac-bb4c-3373849753cd
 ---
